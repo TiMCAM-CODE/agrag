@@ -1,5 +1,5 @@
 # agrag
-
+```
 import numpy as np #ライブラリーのインポート
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -48,3 +48,4 @@ for j in range(120):
 x=list(range(50,550,5))
 plt.plot(x,y)
 plt.show() #グラフの表示
+```
